@@ -1,2 +1,3 @@
 test
-It should work fine, pointing to
+It should work fine, updated
+values
