@@ -1,4 +1,2 @@
 nngggg
-Work
-as
    dsa
