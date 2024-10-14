@@ -1,2 +1,2 @@
 gg
-ada
+ad
